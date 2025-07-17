@@ -1,1 +1,4 @@
 https://www.qemu.org/download/#macos
+brew install qemu
+brew reinstall qemu
+
